@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for kishoreR192224280 -->
 <div align="center">
 
-<img src="./github-profile-assets/banner.svg" alt="Kishore — Full-Stack Developer" width="100%" />
+<img src="./github-profile-assets/banner.svg" alt="Kishore Ravichandar — Full-Stack Developer" width="100%" />
 
 <img src="./github-profile-assets/tagline.svg" alt="Full-Stack Engineering with React & Python" />
 
@@ -237,55 +237,65 @@
 
 ---
 
+## <img src="./github-profile-assets/stats.svg" width="26" height="26" alt="" /> GitHub Stats
+
 <div align="center">
 
-## GitHub Stats
-
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=kishoreR192224280&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=kishoreR192224280&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=kishoreR192224280&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EA580C&icon_color=F59E0B&text_color=E6EDF3" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=kishoreR192224280&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EA580C&text_color=E6EDF3&langs_count=8" alt="Top languages" />
 
 <br />
 
-<img height="165" src="https://streak-stats.demolab.com/?user=kishoreR192224280&theme=tokyonight&hide_border=true&background=0D1117" alt="Contribution streak" />
+<img height="170" src="https://streak-stats.demolab.com/?user=kishoreR192224280&theme=tokyonight&hide_border=true&background=0D1117&ring=EA580C&fire=F59E0B&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=EA580C&sideLabels=9CA3AF&dates=9CA3AF" alt="Contribution streak" />
 
 </div>
 
 ---
 
+## <img src="./github-profile-assets/activity.svg" width="26" height="26" alt="" /> Contribution Activity
+
 <div align="center">
 
-## Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishoreR192224280&bg_color=0d1117&color=ea580c&line=fb923c&point=f97316&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishoreR192224280&bg_color=0d1117&color=ea580c&line=fb923c&point=f97316&area=true&area_color=ea580c&hide_border=true" alt="Contribution activity graph" width="100%" />
 
 </div>
 
 ---
 
+## <img src="./github-profile-assets/target.svg" width="26" height="26" alt="" /> Current Focus
+
+- <img src="https://skillicons.dev/icons?i=java" width="18" height="18" alt="Java" /> **Core Java & Object-Oriented Programming** — strengthening Java fundamentals, OOP principles, design patterns, and clean code practices
+- <img src="https://skillicons.dev/icons?i=spring" width="18" height="18" alt="Spring Boot" /> **Spring Boot Development** — building scalable backend applications and RESTful services with the Spring ecosystem
+- <img src="./github-profile-assets/architecture.svg" width="18" height="18" alt="" /> **System Design & Architecture** — learning scalable system architecture, service communication, reliability, and distributed system patterns
+- <img src="./github-profile-assets/bolt.svg" width="18" height="18" alt="" /> **Real-Time Application Architecture** — working with **Socket.IO**, **WebSockets**, event-driven communication, and real-time data synchronization
+- <img src="./github-profile-assets/database.svg" width="18" height="18" alt="" /> **Database Engineering** — improving database design, **PL/SQL**, query optimization, and efficient data management
+- <img src="./github-profile-assets/network.svg" width="18" height="18" alt="" /> **Cross-Server & Distributed Database Connectivity** — architectures where multiple application servers talk to a centralized backend / database
+- <img src="./github-profile-assets/cloud.svg" width="18" height="18" alt="" /> **Cloud & VPS Deployment** — production deployment patterns, **Linux** servers, networking, **Nginx**, **Docker**, and infrastructure configuration
+- <img src="./github-profile-assets/ship.svg" width="18" height="18" alt="" /> **Production DevOps & Performance** — deployment reliability, server configuration, monitoring, scalability, and backend performance optimization
+
+---
+
+## <img src="./github-profile-assets/book.svg" width="26" height="26" alt="" /> Currently Learning
+
 <div align="center">
 
-## Current Focus
+`Core Java` · `Spring Boot` · `System Design` · `PL/SQL` · `Cloud Architecture` · `DevOps` · `Performance Engineering`
 
-</div>
+<br />
 
-- Advanced backend development with FastAPI and Node.js
-- Real-time application architecture (Socket.IO / WebSockets)
-- System design and cloud / VPS deployment patterns
-- Database design and production DevOps
-
-<div align="center">
-
-### Currently Learning
-
-`System Design` · `Cloud Architecture` · `DevOps` · `Performance Engineering`
+<img src="https://skillicons.dev/icons?i=java,spring,linux,docker,nginx,postgres" alt="Currently learning icons" />
 
 </div>
 
 ---
 
+## <img src="./github-profile-assets/connect.svg" width="26" height="26" alt="" /> Connect With Me
+
 <div align="center">
 
-## Connect With Me
+Open to conversations about **backend engineering**, **full-stack products**, and **production systems**.
+
+<br />
 
 [![GitHub](https://img.shields.io/badge/GITHUB-kishoreR192224280-181717?style=for-the-badge&labelColor=2d333b&logo=github&logoColor=white)](https://github.com/kishoreR192224280)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Kishore%20R-0A66C2?style=for-the-badge&labelColor=2d333b&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishore-r-604b9b388)
@@ -293,7 +303,11 @@
 
 <br />
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,spring,python,react,nextjs,fastapi&theme=dark" alt="Footer tech icons" />
+<img src="./github-profile-assets/mail.svg" width="18" height="18" alt="" /> [mailingkishore72@gmail.com](mailto:mailingkishore72@gmail.com)
+
+<br /><br />
+
+<img src="https://skillicons.dev/icons?i=js,ts,java,spring,python,react,nextjs,fastapi" alt="Footer tech icons" />
 
 <br />
 
