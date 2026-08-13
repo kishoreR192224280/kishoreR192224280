@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Kishore - Full-Stack Developer">
+  <defs>
+    <linearGradient id="bannerGrad" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%" stop-color="#7C2D12"/>
+      <stop offset="35%" stop-color="#C2410C"/>
+      <stop offset="70%" stop-color="#EA580C"/>
+      <stop offset="100%" stop-color="#FB923C"/>
+    </linearGradient>
+    <linearGradient id="waveSoft" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="textShadow" x="-2%" y="-2%" width="104%" height="104%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <!-- Main banner body with layered wave bottom -->
+  <path
+    fill="url(#bannerGrad)"
+    d="M0,0 H1200 V255
+       C1100,295 980,318 860,308
+       C720,295 620,250 500,255
+       C360,261 260,310 140,300
+       C70,294 30,275 0,255 Z"
+  />
+
+  <!-- Soft inner shadow along the wave -->
+  <path
+    fill="url(#waveSoft)"
+    d="M0,230 H1200 V255
+       C1100,295 980,318 860,308
+       C720,295 620,250 500,255
+       C360,261 260,310 140,300
+       C70,294 30,275 0,255 Z"
+  />
+
+  <!-- Secondary wave accent for depth -->
+  <path
+    fill="#0D1117"
+    d="M0,360 H1200 V290
+       C1080,325 960,340 820,328
+       C680,315 600,275 480,278
+       C340,282 250,325 130,318
+       C60,313 20,300 0,288 Z"
+  />
+
+  <!-- Subtle highlight line -->
+  <path
+    fill="none"
+    stroke="#FFFFFF"
+    stroke-opacity="0.12"
+    stroke-width="2"
+    d="M0,255
+       C1100,295 980,318 860,308
+       C720,295 620,250 500,255
+       C360,261 260,310 140,300
+       C70,294 30,275 0,255"
+  />
+
+  <!-- Name -->
+  <text
+    x="600"
+    y="145"
+    text-anchor="middle"
+    font-family="Segoe UI, Inter, Arial, Helvetica, sans-serif"
+    font-size="72"
+    font-weight="700"
+    letter-spacing="6"
+    fill="#FFFFFF"
+    filter="url(#textShadow)"
+  >KISHORE</text>
+
+  <!-- Title -->
+  <text
+    x="600"
+    y="195"
+    text-anchor="middle"
+    font-family="Segoe UI, Inter, Arial, Helvetica, sans-serif"
+    font-size="28"
+    font-weight="400"
+    letter-spacing="2"
+    fill="#FFF7ED"
+  >Full-Stack Developer</text>
+</svg>
