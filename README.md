@@ -95,6 +95,7 @@
 
 <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" />
 <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" />
 
 <br /><br />
 
@@ -119,71 +120,120 @@
 
 ---
 
-<div align="center">
+## <img src="./github-profile-assets/projects.svg" width="26" height="26" alt="" /> Featured Projects
 
-## Featured Projects
+### <img src="./github-profile-assets/palette.svg" width="24" height="24" alt="" /> Sigma Graphics
 
-</div>
+**Production-grade full-stack platform for a graphics studio**, built to modernize the company's digital presence and streamline **portfolio management**, **contact workflows**, **payments**, **invoicing**, and **transactional communication**.
 
-### Sigma Graphics
+`Technical Consultant`
 
-Production website and API for a graphics studio — services, portfolio, contact, and PayPal checkout.
+`Next.js` · `TypeScript` · `React` · `Tailwind CSS` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Alembic` · `Nginx` · `Linux` · `PayPal`
 
-**Tech:** `Next.js` · `TypeScript` · `React` · `Tailwind` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Nginx`
+<details>
+<summary><b>What I contributed</b></summary>
 
-**Highlights:**
-- Full-stack product site with FastAPI REST API and Next.js frontend
-- PostgreSQL schema with SQLAlchemy / Alembic (migrated from MySQL)
-- Payments, invoicing, and transactional email in production on a Linux VPS
+- Acted as a **technical consultant** on architecture, technology choices, deployment strategy, and backend implementation.
+- Helped move a legacy setup to a modern **Next.js + FastAPI + PostgreSQL** stack.
+- Worked with a **FastAPI REST API** as the backend for the frontend.
+- Designed PostgreSQL schemas with **SQLAlchemy** and **Alembic**, including a **MySQL → PostgreSQL** migration.
+- Integrated **PayPal checkout**, payment orders, transaction records, and invoicing workflows.
+- Implemented **transactional email** for customer communication.
+- Deployed and maintained production on a **Linux VPS with Nginx**.
+- Worked on backend reliability, API integration, database connectivity, and production troubleshooting.
+- Accounted for **security**, **CORS**, environment configuration, and production database connections.
 
-🌐 [Live site](https://sigmagraphics.us)
+</details>
 
----
+`Full-Stack Architecture` · `API Development` · `Database Design` · `Payment Integration` · `Production Deployment` · `Technical Consulting`
 
-### Real-Time Quiz Platform
-
-Live quiz system for conference and classroom sessions — admin control, join codes, leaderboard, and big-screen display.
-
-**Tech:** `React` · `TypeScript` · `Vite` · `Tailwind` · `Socket.IO` · `Node.js` · `PHP` · `Apache` · `PostgreSQL` · `Docker`
-
-**Highlights:**
-- Socket.IO server with reconnect grace periods and batched leaderboard pushes
-- PHP/Apache API backed by PostgreSQL
-- Admin dashboard, session control, reports, and audience join flow
-
-🔗 [Frontend](https://github.com/kishoreR192224280/EUROPE-CONFERENCE) · [Backend](https://github.com/kishoreR192224280/website-backend)  
-🌐 [Live demo](https://europe-conference.vercel.app)
+[![Live Website](https://img.shields.io/badge/Live_Website-EA580C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sigmagraphics.us/)
 
 ---
 
-### PancreaScan
+### <img src="./github-profile-assets/bolt.svg" width="24" height="24" alt="" /> Real-Time Quiz Platform
 
-Web client for pancreatic scan review with on-device inference, 3D visualization, and local PDF reports.
+**Real-time interactive quiz platform** for conference, classroom, and large-audience sessions. Admins create and control live sessions; participants join with a code, answer in real time, and see **live leaderboard** updates.
 
-**Tech:** `React` · `TypeScript` · `Vite` · `Three.js` · `ONNX Runtime` · `GitHub Pages`
+`Full-Stack Developer`
 
-**Highlights:**
-- ONNX Runtime inference running in the browser
-- Three.js scan visualization and local PDF report generation
-- Auth, dashboard, patient history, analytics, and PWA support
+`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Socket.IO` · `Node.js` · `PHP` · `Apache` · `PostgreSQL` · `Docker`
 
-🔗 [Repository](https://github.com/kishoreR192224280/PancreaScan-Web)  
-🌐 [Live demo](https://kishoreR192224280.github.io/PancreaScan-Web)
+<details>
+<summary><b>What I built</b></summary>
+
+- Built live communication with **Socket.IO** across admins, participants, and displays.
+- Created an **admin control dashboard** for sessions, questions, participants, and quiz flow.
+- Implemented **session-code joining** without a heavy auth flow.
+- Delivered real-time **leaderboard updates** with batched event delivery.
+- Added Socket.IO **reconnection and grace-period handling** for dropped connections.
+- Built the API layer with **PHP/Apache** and **PostgreSQL**.
+- Created session, question, answer-submission, scoring, and reporting workflows.
+- Added a **big-screen / presentation view** for audience display.
+- Tuned database access to support many simultaneous participants.
+- Used **Docker** to simplify setup and deployment.
+- Ran **load and performance testing** to catch excessive polling, connection buildup, and inefficient queries.
+
+</details>
+
+`Real-Time Systems` · `WebSockets` · `Socket.IO` · `Event-Driven Architecture` · `Performance Optimization` · `Database Engineering` · `Load Testing`
+
+[![Frontend](https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishoreR192224280/EUROPE-CONFERENCE)
+[![Backend](https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishoreR192224280/website-backend)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-EA580C?style=for-the-badge&logo=vercel&logoColor=white)](https://europe-conference.vercel.app/)
 
 ---
 
-### MicroLearn
+### <img src="./github-profile-assets/brain.svg" width="24" height="24" alt="" /> Interview Assistant
 
-Microlearning platform with learning paths, card-based lessons, quizzes, and progress tracking.
+**AI-assisted interview preparation platform** with an interactive web app and backend services for technical interview practice.
 
-**Tech:** `React` · `TypeScript` · `Vite` · `Tailwind` · `Node.js` · `Express` · `PostgreSQL`
+`React` · `Python` · `FastAPI` · `REST API` · `AI / LLM Integration`
 
-**Highlights:**
-- React + Vite client with Express.js REST API
-- PostgreSQL via Drizzle ORM
-- Paths, cards, quizzes, and progress endpoints
+<details>
+<summary><b>Highlights</b></summary>
 
-🔗 [Repository](https://github.com/kishoreR192224280/MIcroLearn)
+- Built an interactive frontend for interview preparation workflows.
+- Developed backend APIs with **Python / FastAPI**.
+- Designed structured communication between frontend and backend processing.
+- Worked with **AI-assisted** flows for interview prep and user interaction.
+- Focused on clean API architecture, validation, and backend organization.
+
+</details>
+
+`AI Applications` · `FastAPI` · `REST APIs` · `Frontend Development` · `Backend Architecture`
+
+---
+
+### <img src="./github-profile-assets/job.svg" width="24" height="24" alt="" /> MERN Job Portal
+
+**Full-stack job portal** connecting candidates and employers — job discovery, filtering, applications, favorites, employer info, and user dashboards.
+
+`React` · `Vite` · `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `Tailwind CSS`
+
+<details>
+<summary><b>Highlights</b></summary>
+
+- Built REST APIs with **Node.js** and **Express.js**.
+- Designed **MongoDB** schemas with **Mongoose** for users, jobs, applications, favorites, and employers.
+- Implemented candidate **authentication** and protected API routes.
+- Built job search and filtering.
+- Added candidate dashboards for applied jobs and favorites.
+- Developed reusable React components and custom hooks.
+- Structured the app as a **MERN stack** project.
+
+</details>
+
+`MERN Stack` · `REST APIs` · `MongoDB` · `Authentication` · `React Architecture` · `Full-Stack Development`
+
+---
+
+## <img src="./github-profile-assets/puzzle.svg" width="26" height="26" alt="" /> Engineering Focus
+
+> [!NOTE]
+> Across these projects, I focus on **production-oriented software**, not only prototypes.
+>
+> `Full-Stack Development` · `Backend Architecture` · `REST APIs` · `Real-Time Systems` · `Database Design` · `Payment Integration` · `Cloud / VPS Deployment` · `Docker` · `Performance Optimization` · `Load Testing` · `Technical Consulting`
 
 ---
 
