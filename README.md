@@ -1,9 +1,9 @@
 <!-- GitHub Profile README for kishoreR192224280 -->
 <div align="center">
 
-<img src="./banner.svg" alt="Kishore — Full-Stack Developer" width="100%" />
+<img src="./github-profile-assets/banner.svg" alt="Kishore — Full-Stack Developer" width="100%" />
 
-<img src="./tagline.svg" alt="Full-Stack Engineering with React & Python" />
+<img src="./github-profile-assets/tagline.svg" alt="Full-Stack Engineering with React & Python" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=FB923C&center=true&vCenter=true&width=680&lines=Building+modern%2C+scalable+%26+real-time+web+applications" alt="Animated subtitle" />
 
