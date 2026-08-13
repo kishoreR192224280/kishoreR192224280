@@ -1,17 +1,19 @@
 <!-- GitHub Profile README for kishoreR192224280 -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Kishore+%F0%9F%91%8B;Full-Stack+Developer+%7C+Software+Engineer;Building+modern+%26+real-time+web+apps" alt="Typing headline" />
+<img src="./github-profile-assets/banner.svg" alt="Kishore — Full-Stack Developer" width="100%" />
 
-### Full-Stack Developer · Software Engineer
+<img src="./github-profile-assets/tagline.svg" alt="Full-Stack Engineering with React & Python" />
 
-Building modern, scalable, and real-time web applications — from React frontends to FastAPI, Node.js, and PHP backends.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=FB923C&center=true&vCenter=true&width=680&lines=Building+modern%2C+scalable+%26+real-time+web+applications" alt="Animated subtitle" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishoreR192224280)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishore-r-604b9b388)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailingkishore72@gmail.com)
+<br />
 
-<img src="https://komarev.com/ghpvc/?username=kishoreR192224280&label=Profile%20views&color=58a6ff&style=flat" alt="Profile views" />
+[![GitHub](https://img.shields.io/badge/GITHUB-kishoreR192224280-181717?style=for-the-badge&labelColor=2d333b&logo=github&logoColor=white)](https://github.com/kishoreR192224280)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Kishore%20R-0A66C2?style=for-the-badge&labelColor=2d333b&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishore-r-604b9b388)
+[![Gmail](https://img.shields.io/badge/GMAIL-mailingkishore72%40gmail.com-EA4335?style=for-the-badge&labelColor=2d333b&logo=gmail&logoColor=white)](mailto:mailingkishore72@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=kishoreR192224280&label=Profile%20views&color=ea580c&style=flat" alt="Profile views" />
 
 <br />
 
@@ -173,7 +175,7 @@ Microlearning platform with learning paths, card-based lessons, quizzes, and pro
 
 ## Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishoreR192224280&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishoreR192224280&bg_color=0d1117&color=ea580c&line=fb923c&point=f97316&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
 
 </div>
 
@@ -204,9 +206,9 @@ Microlearning platform with learning paths, card-based lessons, quizzes, and pro
 
 ## Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-kishoreR192224280-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishoreR192224280)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kishore%20R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishore-r-604b9b388)
-[![Email](https://img.shields.io/badge/mailingkishore72@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailingkishore72@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-kishoreR192224280-181717?style=for-the-badge&labelColor=2d333b&logo=github&logoColor=white)](https://github.com/kishoreR192224280)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Kishore%20R-0A66C2?style=for-the-badge&labelColor=2d333b&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishore-r-604b9b388)
+[![Gmail](https://img.shields.io/badge/GMAIL-mailingkishore72%40gmail.com-EA4335?style=for-the-badge&labelColor=2d333b&logo=gmail&logoColor=white)](mailto:mailingkishore72@gmail.com)
 
 <br />
 
