@@ -59,78 +59,61 @@
 
 ### Languages
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" title="HTML5" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3" title="CSS3" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" title="TypeScript" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42" height="42" alt="Java" title="Java" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="42" height="42" alt="PHP" title="PHP" />
+<img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" />
+<img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" />
+<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" />
+<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" />
+<img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
+<img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" />
+<img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" />
+
+<br /><br />
 
 ### Frontend
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" height="42" alt="React" title="React" />
-&nbsp;
-<img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="42" height="42" alt="Next.js" title="Next.js" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="42" height="42" alt="Vite" title="Vite" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42" alt="Tailwind CSS" title="Tailwind CSS" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" width="42" height="42" alt="React Router" title="React Router" />
-&nbsp;
-<img src="https://cdn.simpleicons.org/threedotjs/ffffff" width="42" height="42" alt="Three.js" title="Three.js" />
+<img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />
+<img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" />
+<img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" />
+<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" title="Three.js" />
+
+<br /><br />
 
 ### Backend
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42" height="42" alt="Java" title="Java" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="42" height="42" alt="Spring Boot" title="Spring Boot" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI" title="FastAPI" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" title="Node.js" />
-&nbsp;
-<img src="https://cdn.simpleicons.org/express/ffffff" width="42" height="42" alt="Express.js" title="Express.js" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="42" height="42" alt="PHP" title="PHP" />
-&nbsp;
-<img src="https://cdn.simpleicons.org/socketdotio/ffffff" width="42" height="42" alt="Socket.IO" title="Socket.IO" />
+<img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" />
+<img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" title="Spring Boot" />
+<img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI" />
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" />
+<img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js" />
+<img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" />
+<img src="https://skillicons.dev/icons?i=socketio" alt="Socket.IO" title="Socket.IO" />
+
+<br /><br />
 
 ### Databases
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" title="MySQL" />
+<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />
+
+<br /><br />
 
 ### DevOps & Cloud
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git" />
-&nbsp;
-<img src="https://cdn.simpleicons.org/github/ffffff" width="42" height="42" alt="GitHub" title="GitHub" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" title="Docker" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" title="Linux" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="42" height="42" alt="Nginx" title="Nginx" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="42" height="42" alt="Apache" title="Apache" />
-&nbsp;
-<img src="https://cdn.simpleicons.org/vercel/ffffff" width="42" height="42" alt="Vercel" title="Vercel" />
+<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" />
+<img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" />
+<img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" title="Nginx" />
+<img src="https://skillicons.dev/icons?i=apache" alt="Apache" title="Apache" />
+<img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" />
 
-<br />
+<br /><br />
 
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
-<img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
+<img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" />
 
 </div>
 
