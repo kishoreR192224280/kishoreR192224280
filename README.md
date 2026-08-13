@@ -36,18 +36,20 @@
 
 ---
 
+## <img src="./github-profile-assets/ship.svg" width="26" height="26" alt="" /> How I Ship
+
 <div align="center">
 
-## What I Build
-
-| | | |
-| :---: | :---: | :---: |
-| **Full-Stack Apps** | **Real-Time Systems** | **REST APIs** |
-| React · Next.js · Vite | Socket.IO · live sessions | FastAPI · Express · PHP |
-| **Databases** | **Containers & Servers** | **Cloud / VPS** |
-| PostgreSQL · MySQL | Docker · Nginx · Apache | Render · Vercel · Linux VPS |
+`Interface` → `API` → `Database` → `Real-Time` → `Production`
 
 </div>
+
+| | | |
+| :--- | :--- | :--- |
+| **01 · Interface** | **02 · API** | **03 · Database** |
+| React, Next.js, and Vite UIs that stay fast and readable | REST services in FastAPI, Express, and PHP | PostgreSQL and MySQL with SQLAlchemy migrations |
+| **04 · Real-Time** | **05 · Production** | **06 · Payments** |
+| Socket.IO sessions, reconnects, and live leaderboards | Linux VPS, Nginx, Docker, Render, and GitHub Pages | PayPal checkout, invoices, and transactional email |
 
 ---
 
