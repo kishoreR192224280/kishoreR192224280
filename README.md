@@ -23,17 +23,16 @@
 
 ---
 
-<div align="center">
+## <img src="./github-profile-assets/briefcase.svg" width="26" height="26" alt="" /> About Me
 
-## About Me
-
-</div>
-
-I'm a full-stack developer who designs and ships production web systems end to end — UI, APIs, databases, and deployment.
-
-Recent work includes a live graphics studio platform ([Sigma Graphics](https://sigmagraphics.us)), a Socket.IO quiz product with admin and audience flows, and a browser-based medical imaging client with on-device inference.
-
-I care about clean APIs, reliable real-time behavior, solid database design, and deployments that actually hold up in production.
+> [!IMPORTANT]
+> ### Full-Stack Developer
+>
+> I am a **Full-Stack Developer** who designs and ships production web systems end to end — user interfaces, APIs, databases, and deployment.
+>
+> I work with **JavaScript, TypeScript, Python, PHP, React, Next.js, FastAPI, Node.js, PostgreSQL, REST APIs, and Socket.IO** to build modern, database-driven applications.
+>
+> Recent work includes a live graphics studio platform ([Sigma Graphics](https://sigmagraphics.us)), a real-time quiz product with admin and audience flows, and a browser-based medical imaging client with on-device inference. I focus on **clean APIs**, **reliable real-time behavior**, and **deployments that hold up in production**.
 
 ---
 
