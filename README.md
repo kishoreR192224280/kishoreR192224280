@@ -180,7 +180,7 @@
 
 [![Frontend](https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishoreR192224280/EUROPE-CONFERENCE)
 [![Backend](https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishoreR192224280/website-backend)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-EA580C?style=for-the-badge&logo=vercel&logoColor=white)](https://europe-conference.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-EA580C?style=for-the-badge&logo=vercel&logoColor=white)](https://qonnect-for-conference.vercel.app/)
 
 ---
 
